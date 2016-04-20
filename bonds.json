@@ -1,0 +1,94 @@
+{
+  "barbarian": [
+    "__________ is puny and foolish, but amusing to me.",
+    "__________’s ways are strange and confusing.",
+    "__________ is always getting into trouble—I must protect them from themselves.",
+    "__________ shares my hunger for glory; the earth will tremble at our passing!",
+    "__________ does not understand me, or my culture. I will explain myself to them, no matter how long it takes.",
+    "__________ got me involved in a questionable adventure and I’m having second thoughts about it now.",
+    "__________ has seen the lands of my home, more recently than me.",
+    "__________ showed me how to get high."
+  ],
+  "bard": [
+    "This is not my first adventure with __________.",
+    "I sang stories of __________ long before I ever met them in person.",
+    "__________ is often the butt of my jokes.",
+    "I am writing a ballad about the adventures of __________.",
+    "__________ trusted me with a secret.",
+    "__________ does not trust me, and for good reason.",
+    "I told __________ all about performing inside a rich noble’s home and saw the greed in their eyes.",
+    "__________ helped me make some important contacts. I owe them.",
+    "__________ is my lover, or was, or would have been, or… it’s complicated.",
+    "__________ knows I have a secret map.",
+    "__________ started a fight while I was performing, and payback’s a bitch.",
+    "__________ would be an excellent subject for a ballad, if only they got into more adventures. So I’ll just help them out with that."
+  ],
+  "cleric": [
+    "__________ has insulted my deity; I do not trust them.",
+    "__________ is a good and faithful person; I trust them implicitly.",
+    "__________ is in constant danger, I will keep them safe.",
+    "I am working on converting __________ to my faith.",
+    "I have intervened with other priests on __________’s behalf before.",
+    "My deity has marked out __________ as someone important. I must help them fulfill their destiny.",
+    "__________ has been through hardships that would break me. They can stand against the darkness I see looming over the world.",
+    "__________ has worked with servants of my deity before."
+  ],
+  "druid": [
+    "__________ smells more like prey than a hunter.",
+    "The spirits spoke to me of a great danger that follows _________.",
+    "I have showed ___________ a secret rite of the Land.",
+    "__________ has tasted my blood and I theirs. We are bound by it.",
+    "Me and __________ are tracking the passage of a terrible monster through this land.",
+    "__________ has fought in defence of my lands before and has my respect.",
+    "__________ is familiar with the sickness that infects the land, which must be purged.",
+    "__________ seems suitably impressed by my powers and I just can’t help showing off in front of them."
+  ],
+  "fighter": [
+    "__________ owes me their life, whether they admit it or not.",
+    "I have sworn to protect __________.",
+    "I worry about the ability of _______________ to survive in the dungeon.",
+    "__________ is soft, but I will make them hard like me.",
+    "Me and __________ were both hired by a boss who turned on us.",
+    "__________ proved a worthy ally in the last war, even considering that one mistake they made.",
+    "__________ saw me kill someone important.",
+    "__________ stood up to me and got away with it. That’s how it is, I guess."
+  ],
+  "paladin": [
+    "__________’s misguided behavior endangers their very soul!",
+    "__________ has stood by me in battle and can be trusted completely.",
+    "I respect the beliefs of _______________ but hope they will someday see the true way.",
+    "__________ is a brave soul, I have much to learn from them.",
+    "For what they have done, I have sworn to guide and protect __________.",
+    "I have heard of _________’s exploits and am suitably impressed.",
+    "__________ gave me food and shelter when I had nothing.",
+    "__________ obviously doesn’t trust me, and this needs to change."
+  ],
+  "ranger": [
+    "I have guided __________ before and they owe me for it.",
+    "__________ is a friend of nature, so I will be their friend as well.",
+    "__________ has no respect for nature, so I have no respect for them.",
+    "__________ does not understand life in the wild, so I will teach them.",
+    "__________ and I took down a great beast once, and paid for it dearly.",
+    "__________ left me in a pinch when they were supposed to come through for me.",
+    "__________ once talked me into guiding some halflings on the run through dangerous territory, and never thanked me properly for it.",
+    "__________ was once my enemy, but we’ve since reconciled."
+  ],
+  "thief": [
+    "I stole something from __________.",
+    "__________ has my back when things go wrong.",
+    "__________ knows incriminating details about me.",
+    "__________ and I have a con running.",
+    "Me and __________ are the only survivors of a dubious adventure.",
+    "__________ helped me steal something really valuable from someone who is really dangerous.",
+    "__________ knows where I stashed some loot.",
+    "__________ still owes me for some stuff they were supposed to fence for me."
+  ],
+  "wizard": [
+    "__________ will play an important role in the events to come. I have foreseen it!",
+    "__________ is keeping an important secret from me.",
+    "__________ is woefully misinformed about the world; I ￼will teach them all that I can.",
+    "__________ and I shared a mystical vision, after drinking the blood of the demon world together.",
+    "__________ has supplied me with forbidden tomes.",
+    "__________ once brought me safely through the Haunted Forest."
+  ]
+}
