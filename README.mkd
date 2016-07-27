@@ -1,0 +1,11 @@
+# Dungeon World Data
+
+Data from [Dungeon World](http://dungeon-world.com) that isn't HTML or XML or some other equally as monstrous a format. No, it'll be JSON. Nice, easy-to-use JSON.
+
+## Monsters
+
+Monsters are categorized, and all the data you need to reconstruct [the Dungeon World SRD](http://www.dungeonworldsrd.com/monsters) is available.
+
+## Bonds
+
+**Warning**: This is a pretty opinionated piece of data. Bonds categorized by class, and it includes some extra bond ideas. Also, no Immolater at the moment, which I will reluctantly rectify at some point.
